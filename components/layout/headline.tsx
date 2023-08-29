@@ -12,9 +12,7 @@ const Headline = () => {
         </Balancer>
       </h1>
       <h2 className="text-lg sm:text-xl">
-        <Balancer>
-          Discover many different types of kombucha and flavors
-        </Balancer>
+        <Balancer>Discover different types of kombucha and flavors</Balancer>
       </h2>
     </div>
   );
